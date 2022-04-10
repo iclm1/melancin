@@ -1,10 +1,10 @@
 # MelanCIn
-> 'Vitrine virtual' Aplicativo mobile de comunicação
+> Descrição curta sobre o que seu projeto faz.
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-Canal digital que promova e facilite a compra e venda de alimentos dentro do Centro de informática, através de uma comunicação simples e rápida, proporcionando uma aproximação entre essa comunidade.
+De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 
 ![](../header.png)
 
@@ -68,15 +68,9 @@ Distribuído sob a licença XYZ. Veja `LICENSE` para mais informações.
 4. _Push_ (`git push origin feature/fooBar`)
 5. Crie um novo _Pull Request_
 
+[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/datadog-metrics
+[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
+[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/seunome/seuprojeto/wiki
-
-## Authors
-
-* **Belchior Inacio da Silva** - [belchiors](https://github.com/belchiors)
-* **Eva Marla** - [evamarlaa](https://github.com/evamarlaa)
-* **Isabela Menezes** - [isabela](https://github.com/)
-* **Vitor Malta** - [vitormalta](https://github.com/vitormalta)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
