@@ -1,10 +1,10 @@
-#Nome do Projeto - #i(1..4)
+#Foodstacks - #i(1..4)
 
-# Postmortem
+# Postmortem IT1
 
 Início da Iteração | Término da iteração
 ------------ | -------------
-31/03/2022 | 13/04/2022
+13/04/2022 | 25/04/2022
 
 
 ### O que estava planejado
@@ -25,6 +25,9 @@ Início da Iteração | Término da iteração
 | Criar histórias de usuários| `@todos` |
 | Criação do board Kanban| `@vitormalta` |
 | Criação de ata reunião| `@eva` |
+| Criação de Mockup| `@isabela` |
+| Criação dos slides para apresentação| `@eva` |
+| Reestruturação do Notion| `@vitor` |
 
 
 
@@ -45,18 +48,16 @@ Início da Iteração | Término da iteração
 | Criar histórias de usuários | `@todos` |
 | Criação do board Kanban| `@vitormalta` |
 | Criação de ata reunião| `@eva` |
-
+| Criação de Mockup| `@isabela` |
+| Criação dos slides para apresentação| `@eva` |
+| Reestruturação do Notion| `@vitor` |
 
 ### O que não foi feito
-* Fazer um formulário para recolher dados com a comunidade do CIn sobre o tema
-* Criação de testes automatizados iniciais - TDD
-> **Nota:** Apesar de observarmos a importância e a necessidade de passar um formulário para recolher dados sobre a nossa problemática e a criação dos testes iniciais, não conseguimos organizar a tempo da primeira Iteração, temos a expectativa de realizar essa ação logo no início da segunda iteração, para validar nossa solução. 
-
+> **Nota:** Todas as atividades propostas foram realizadas durante o periodo inicial e da primeira iteração.
 
 ### Planejado para próxima iteração
-* Fazer formulário e passar para a comunidade do CIn
-* Criação de testes automatizados iniciais - TDD
-* Fazer protótipo do fluxo do sistema web no Figma
+* Passar o formulário para a comunidade do CIn
+* Criação de mais testes automatizados - TDD
 * Iniciar o desenvolvimento do back e do front end 
 * Definir a Arquitetura de Informação - Modelo ER 
 * Refinar as histórias de usuário, deixá-las mais bem definidas
